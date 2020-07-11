@@ -1,0 +1,17 @@
+syntax: glob
+*.class
+**/target/*
+gurupagos-mobil/build/*
+gurupagos-mobil/.gradle/*
+*.classpath
+.project
+*/.settings/*
+gurupagos-afip/bin/*
+*/bin/*
+.git/
+*.orig
+.settings/*
+**/.buildpath
+transaction/node_modules/*
+transaction/dist/*
+transaction/.vscode/*
